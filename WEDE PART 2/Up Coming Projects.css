@@ -1,0 +1,17 @@
+header{
+    text-align: center;
+    font-size: 30px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: azure;
+}
+
+body{
+    background-image: url(Go.gif);
+    background-color: black;
+}
+
+img{
+    width: 40%;
+    height: 50vh;
+    text-align: center;
+}

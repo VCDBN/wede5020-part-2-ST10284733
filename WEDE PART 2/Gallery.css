@@ -1,0 +1,33 @@
+html{
+    scroll-behavior: smooth;
+}
+
+img{
+    width: 35%;
+    height: 50vh;
+}
+
+body{
+    background-image: url(Go12.gif);
+    background-color: aquamarine;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+}
+
+h2{
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+}
+
+h3{
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+}
